@@ -2,6 +2,7 @@
 
 - [Datenschutz](#datenschutz)
   - [Wo finde ich Informationen](#wo-finde-ich-informationen)
+    - [Linkhaufen](#linkhaufen)
   - [Einstieg](#einstieg)
   - [BitLocker (Windows)](#bitlocker-windows)
   - [VeraCrypt (Windows / Linux / MacOS)](#veracrypt-windows--linux--macos)
@@ -10,17 +11,18 @@
     - [GPG Suite (MacOS)](#gpg-suite-macos)
     - [7zip (Windows / Linux)](#7zip-windows--linux)
   - [Exkurs mobile Endgeräte](#exkurs-mobile-endgeräte)
-  - [Linkhaufen](#linkhaufen)
 
 ## Wo finde ich Informationen
 
-AnsprechpartnerIn: Andrea Bielevelt
+- Ansprechpartnerin: Andrea Bielevelt
+- Technischer Ansprechpartner: Björn Schilberg
 
-Technischer Ansprechpartner: Björn Schilberg
+### Linkhaufen
 
 - https://lwiki.angelaschule-os.de/doku.php?id=datenschutz
 - https://lfd.niedersachsen.de/startseite/themen/schulen/datenschutz-in-schulen-56175.html
 - https://www.landesschulbehoerde-niedersachsen.de/themen/schulorganisation/datenschutz/dsgvo/faq-ds-gvo
+- https://lfd.niedersachsen.de/download/153559/Erlass_zur_Verarbeitung_personenbezogener_Daten_auf_privaten_IT-Systemen_von_Lehrkraeften.pdf
 
 
 ## Einstieg
@@ -54,7 +56,7 @@ Achtung: In Windows 10 Home Edition nicht verfügbar!
 Vorteile BitLocker:
 - Einfache Benutzerführung zur Verschlüsslung von USB-Sticks.
 - Wiederherstellung-Schlüssel, falls Passwort vergessen oder verloren. Am
-  Besten augedruckt im Safe haufheben.
+  Besten ausgedruckt im Safe aufheben.
 
 Theoretisch minimaler meßbarer Leistungsnachteil. Praktisch kaum wahrnehmbar.
 
@@ -70,7 +72,7 @@ Wechseldatenträgern. VeraCrypt ist Freie Software.
 Alternative ist BitLocker von Microsoft.
 
 Achtung es gibt anders als bei BitLockler keinen Wiederherstellungsschlüssel.
-Wenn Passwort verlorgen oder vergessen, dann sind die Daten futsch.
+Wenn Passwort verloren oder vergessen, dann sind die Daten futsch.
 
 Theoretisch minimaler meßbarer Leistungsnachteil. Praktisch kaum wahrnehmbar.
 Gilt für die Festplattenverschlüsselung.
@@ -98,6 +100,9 @@ Was kann verschlüsselt werden:
 - Ordner
 - Emails
 
+- https://www.datenschutz.rlp.de/fileadmin/lfdi/Dokumente/OH_GPG_fuer_Windows.pdf
+- https://www.heise.de/ct/artikel/Einfach-erklaert-E-Mail-Verschluesselung-mit-PGP-4006652.html
+
 
 ### GPG Suite (MacOS)
 
@@ -105,6 +110,7 @@ GPG Suite ist ein Installationspaket für Apples macOS, zur E-Mail und
 Datei-Verschlüsselung. GPG Suite ist Freie Software.
 
 - https://gpgtools.org/
+- https://www.datenschutz.rlp.de/fileadmin/lfdi/Dokumente/OH_GPGTools_fuer_Mac.pdf
 
 ### 7zip (Windows / Linux)
 
@@ -120,12 +126,4 @@ Was kann verschlüsselt werden:
 
 ## Exkurs mobile Endgeräte
 
-Mobile Endgeräte. Zur Zeit kein speichern von vertraulichen Daten erlaubt!
-
-## Linkhaufen
-
-
-- https://lfd.niedersachsen.de/download/153559/Erlass_zur_Verarbeitung_personenbezogener_Daten_auf_privaten_IT-Systemen_von_Lehrkraeften.pdf
-- https://www.heise.de/ct/artikel/Einfach-erklaert-E-Mail-Verschluesselung-mit-PGP-4006652.html
-- https://www.datenschutz.rlp.de/fileadmin/lfdi/Dokumente/OH_GPG_fuer_Windows.pdf
-- https://www.datenschutz.rlp.de/fileadmin/lfdi/Dokumente/OH_GPGTools_fuer_Mac.pdf
+Mobile Endgeräte. Kein speichern von vertraulichen Daten!!!
