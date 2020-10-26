@@ -6,6 +6,8 @@
   - [Einstieg](#einstieg)
   - [BitLocker (Windows)](#bitlocker-windows)
   - [VeraCrypt (Windows / Linux / MacOS)](#veracrypt-windows--linux--macos)
+    - [Hinweise zur Installation und Nutzung](#hinweise-zur-installation-und-nutzung)
+    - [Links](#links)
   - [weitere Möglichkeiten](#weitere-möglichkeiten)
     - [Gpg4win (Windows)](#gpg4win-windows)
     - [GPG Suite (MacOS)](#gpg-suite-macos)
@@ -80,6 +82,12 @@ Gilt für die Festplattenverschlüsselung.
 Vorteil: VeraCrypt ist flexibel einsetzbar unter Windows / Linux / MacOS.
 
 Besonderheit: Container/Datei als virtuelles Laufwerk!
+
+### Hinweise zur Installation und Nutzung
+
+- [Hinweise zur Installation und Nutzung](./VeraCrypt.md)
+
+### Links
 
 - https://www.heise.de/select/ct/2020/17/2017718561505911688
 - https://www.heise.de/tipps-tricks/VeraCrypt-Alles-verschluesselt-4308944.html
