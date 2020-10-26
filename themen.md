@@ -1,8 +1,21 @@
 # Datenschutz
 
+- [Datenschutz](#datenschutz)
+  - [Wo finde ich Informationen](#wo-finde-ich-informationen)
+  - [Einstieg](#einstieg)
+  - [BitLocker (Windows)](#bitlocker-windows)
+  - [VeraCrypt (Windows / Linux / MacOS)](#veracrypt-windows--linux--macos)
+  - [weitere Möglichkeiten](#weitere-möglichkeiten)
+    - [Gpg4win (Windows)](#gpg4win-windows)
+    - [GPG Suite (MacOS)](#gpg-suite-macos)
+    - [7zip (Windows / Linux)](#7zip-windows--linux)
+  - [Exkurs mobile Endgeräte](#exkurs-mobile-endgeräte)
+  - [Linkhaufen](#linkhaufen)
+
 ## Wo finde ich Informationen
 
 AnsprechpartnerIn: Andrea Bielevelt
+
 Technischer Ansprechpartner: Björn Schilberg
 
 - https://lwiki.angelaschule-os.de/doku.php?id=datenschutz
@@ -107,7 +120,7 @@ Was kann verschlüsselt werden:
 
 ## Exkurs mobile Endgeräte
 
-Mobile Endgeräte. Kein Speicher von vertraulichen Daten.
+Mobile Endgeräte. Zur Zeit kein speichern von vertraulichen Daten erlaubt!
 
 ## Linkhaufen
 
