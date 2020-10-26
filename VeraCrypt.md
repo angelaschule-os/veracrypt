@@ -1,6 +1,6 @@
-# VerCrypt
+# VeraCrypt
 
-- [VerCrypt](#vercrypt)
+- [VeraCrypt](#veracrypt)
   - [weiterführende Links](#weiterführende-links)
   - [Herunterladen](#herunterladen)
   - [Installieren](#installieren)
@@ -100,7 +100,7 @@ Die Container(-datei) sollte nun unter `Laufwerk A:` geöffnet und eingebunden s
 
 ![einbinden06](img/einbinden06.png)
 
-**Wichtig: Nach dem Ablegen oder dem Bearbeiten der zu schützenden Dateien muss die Container(-datei) wieder getrennt werden, damit die Daten in dem Container geschützt sind!** 
+**Wichtig: Nach dem Ablegen oder dem Bearbeiten der zu schützenden Dateien muss die Container(-datei) wieder getrennt werden, damit die Daten in dem Container geschützt sind!**
 
 ## Container(-datei) trennen
 
